@@ -1,4 +1,4 @@
-# Data Science Project
+## Data Science Project
 Solutions to the following coding problems. The dataset used is the iris flower dataset. The Jupyter Notebook contains solutions to each of the following problems.
 
 ### Question 1
@@ -33,6 +33,4 @@ Find out the species which has the maximum average petal area
 ### Question 9
 Create seperate dataframes for the three species, and then join them using outer join. Return the resulting dataframe.
 
-### Question 10
-Perform some operation(s) of your choice to extract any useful information about this data
-Describe what information you have extracted precisely.
+
